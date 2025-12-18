@@ -1,6 +1,6 @@
 # Interactive AI Lab CV 🧪
 
-> **Status:** 🚧 *Idea in Execution / R&D Prototype*
+> **Status:** 🚧 *Idea in Execution*
 
 A single-page personal portfolio built with **Vanilla HTML/CSS/JS** that explores the concept of **"Client-Side Observability"**.
 Beyond just displaying experience, this website acts as an active agent, analyzing visitor behavior (scroll speed, dwell time, interactions) to generate a real-time "Session Profile".
